@@ -16,7 +16,7 @@ The projects consists of following features
   width="100" alt="Login Screen" >
   
 
-<label > MainScreen </label>
+<h4> MainScreen </h4>
 <img src="https://raw.githubusercontent.com/mayank4kathuria/phonebook/assests/assets/screenShorts/Screenshot_20190204-173456.jpg"
   width="100" alt="Main Screen" style="display:inline">
   
